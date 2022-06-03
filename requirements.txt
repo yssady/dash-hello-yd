@@ -1,4 +1,7 @@
 alabaster==0.7.12
+anaconda-client==1.9.0
+anaconda-navigator==2.1.4
+anaconda-project==0.10.1
 ansi2html==1.7.0
 anyio==2.2.0
 appdirs==1.4.4
@@ -286,6 +289,7 @@ waterfallcharts==3.8
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.0.2
+wheel==0.37.0
 whichcraft==0.6.1
 widgetsnbextension==3.5.1
 win-inet-pton==1.1.0
